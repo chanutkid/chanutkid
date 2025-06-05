@@ -6,10 +6,6 @@ I graduated from Bangkok University. Faculty of Information Technology and Innov
 I'm interesting in FrontEnd Developer, Web Developer.
 And now I'm currently learning BackEnd for upgrade my skills.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanutkid&label=Profile%20views&color=0e75b6&style=flat" alt="chanutkid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanutkid" alt="chanutkid" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chanut-kidwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanut-kidwat" height="30" width="40" /></a>
