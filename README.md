@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7d549125-c920-41b3-8d23-d163edbb7658)## Hi Bro Hello Sis 👋
+## Hi Bro Hello Sis 👋
 My name is Chanut Kidwat or you can call me Nut!
 
 ## About Me
