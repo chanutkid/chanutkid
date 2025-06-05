@@ -1,4 +1,14 @@
-## Hi👋, Welcome to my github profile.
+![image](https://github.com/user-attachments/assets/7d549125-c920-41b3-8d23-d163edbb7658)## Hi Bro Hello Sis 👋
+My name is Chanut Kidwat or you can call me Nut!
+
+## About Me
+I graduated from Bangkok University. Faculty of Information Technology and Innovation, Computer Science major.
+I'm interesting in FrontEnd Developer, Web Developer.
+And now I'm currently learning BackEnd for upgrade my skills.
+
+## Skills
+
+
 
 <!--
 **chanutkid/chanutkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
