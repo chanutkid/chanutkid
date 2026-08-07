@@ -14,7 +14,7 @@ And now I'm currently learning BackEnd for upgrade my skills.
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 15px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 20px; backgroud:transparent;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 15px;">
