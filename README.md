@@ -32,7 +32,7 @@ And now I'm currently learning BackEnd for upgrade my skills.
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; backgroud:transparent;">
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="NextJS" width="40" height="40"/>
   </a>
 </p>
