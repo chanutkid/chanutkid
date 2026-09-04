@@ -19,8 +19,7 @@ And now I'm currently learning BackEnd for upgrade my skills.
 ## Contact
 <p align="left">
 <a href="https://linkedin.com/in/chanut-kidwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanut-kidwat" height="30" width="40" /></a>
-<a href="https://instagram.com/sunterlly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunterlly" height="30" width="40" /></a>
-</p>
+
 <!--
 **chanutkid/chanutkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
